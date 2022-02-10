@@ -117,7 +117,6 @@ let store = {
     ],
   };
 
-
 let root = document.querySelector("body");
 let contain = document.createElement("div");
 contain.classList.add("contain")
