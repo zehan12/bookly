@@ -48,7 +48,6 @@ table {
 
 
 
-
 General
 
  body {
@@ -62,8 +61,10 @@ header {
 }
 h1 {
     color: yellow;
-    font-size: 1.5rem;
+    font-size: 1.9rem;
     text-decoration: none;
+    text-align: center;
+    padding: 25px 0;
 } 
 
 
